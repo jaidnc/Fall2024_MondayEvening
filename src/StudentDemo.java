@@ -16,6 +16,7 @@ public class StudentDemo {
     }
 
     public String getName() {
+        //Showing fetch and merge
         return this.name;
         //Second change
         //Making a change on remote
